@@ -1,0 +1,9 @@
+[submodule "ticker"]
+	path = ticker
+	url = git@github.com:juancampa/membrane-agent-ticker.git
+[submodule "coinmarketcap"]
+	path = coinmarketcap
+	url = git@github.com:juancampa/membrane-driver-coinmarketcap.git
+[submodule "gmail"]
+	path = gmail
+	url = git@github.com:juancampa/membrane-driver-gmail.git
