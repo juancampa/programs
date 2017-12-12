@@ -7,3 +7,6 @@
 [submodule "gmail"]
 	path = gmail
 	url = git@github.com:juancampa/membrane-driver-gmail.git
+[submodule "nanopool"]
+	path = nanopool
+	url = git@github.com:juancampa/membrane-driver-nanopool.git
